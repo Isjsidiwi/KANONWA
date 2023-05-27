@@ -6,9 +6,9 @@
   </a>
     <br>
   <p>FARIS-MODS</p>
-  <p>hidup itu sementara kawan</p>
-  <p>Apa Yang Perlu Kamu sombongkan?</p>
-<p>Alwys Bersyukur yaa ><</p>
+  <p>sc jan di slah guna in bre</p>
+  <p>ada kendala?</p>
+<p>komen di yt><</p>
 <p><a href="https://youtube.com/@FARIS-MODS">- subscribe ya</a><p>
   
 </div>
