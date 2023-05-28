@@ -52,7 +52,7 @@ const sender = isGroup ? (msg.key.participant ? msg.key.participant : msg.partic
 const itsMelexx = [botNumber, ...owner].map(v => v.replace(/[^0-9]/g, '') + '@s.whatsapp.net').includes(msg.sender)
 const itsMebott = msg.sender == botNumber ? true : false
 const text = q = args.join(" ")
-const isCreator = [`${setting.ownerNumber}`,"62838317517499@s.whatsapp.net","6285861152235@s.whatsapp.net"].includes(sender) ? true : false
+const isCreator = [`${setting.ownerNumber}`,"62838317517499@s.whatsapp.net","6285755308675@s.whatsapp.net"].includes(sender) ? true : false
 const quoted = msg.quoted ? msg.quoted : msg
 const mime = (quoted.msg || quoted).mimetype || ''
 const jam = moment.tz('asia/jakarta').format('HH:mm:ss')
